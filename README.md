@@ -1,2 +1,2 @@
 # learning-C-knr
-started learning C language from scratch 
+Working through K&R "The C Programming Language" — exercises and notes
